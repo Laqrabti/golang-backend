@@ -1,0 +1,16 @@
+# Binaries
+backend
+main
+
+# Dependency directories
+vendor/
+
+# Editor files
+.idea/
+.vscode/
+
+# Environment files
+.env
+
+# Test artifacts
+coverage.out
